@@ -1,0 +1,41 @@
+Car Dataset
+     ↓
+Data Cleaning
+     ↓
+Categorical Data Encoding
+     ↓
+Train ML Model
+     ↓
+Save Model + Encoder
+     ↓
+Streamlit App
+     ↓
+User Car Details Enter karta hai
+     ↓
+Trained Model
+     ↓
+Predicted Car Price
+
+--------------------------------------------------------------
+
+My project is Old Car Price Prediction.
+It is a machine learning based web application developed using Python and Streamlit.
+The main objective of this project is to predict the resale price of a used car
+based on factors such as car brand, manufacturing year, kilometers driven, fuel type,
+transmission and owner type. We train a machine learning model using historical car data.
+Categorical features are converted into numerical form using encoding.
+The trained model is then integrated with a Streamlit web interface.
+The user enters the car details and the model predicts the estimated resale price.
+
+-------------------------------------------------------------------
+
+Target/Output== Selling Price
+-------------------------------------------
+
+Input features:
+1.brand
+2.year
+3.kilometers driven
+4.fuel
+5.transmission
+6.owner
